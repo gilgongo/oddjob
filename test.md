@@ -1,5 +1,7 @@
-    {% include header.html %}
-
-Hello
-
-    {% include footer.html %}
+---
+layout: page
+title: "Home Page"
+lang: "en"
+permalink: "/test"
+---
+Hello world
