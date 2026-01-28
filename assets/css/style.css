@@ -1,6 +1,11 @@
-body { font-family: Verdana,Helvetica,Geneva,Arial ;
-    margin: 2em ;  
-    background-color: FFFFCC
+body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.container {
+	max-width: 58.5em; 	
+	margin: 10 auto;
 }
 
 h1 { 
